@@ -1,0 +1,28 @@
+_repo: Black-Star-s-CampaignA-Detective-Story_40484
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCulley, Johnston
+    birthdate: 1883
+    deathdate: 1958
+    gutenberg_agent_id: '37927'
+    url: http://www.gutenberg.org/2009/agents/37927
+    wikipedia: http://en.wikipedia.org/wiki/Johnston_McCulley
+description: ''
+gutenberg_issued: '2012-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: 'Black Star''s Campaign: A Detective Story'
+url: http://www.gutenberg.org/ebooks/40484
